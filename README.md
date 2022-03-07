@@ -1,2 +1,2 @@
 # MyDex
-A wallet and dex created in solidity
+wallet and dex smart contracts and build created in solidity with some oppenZepplin imports
